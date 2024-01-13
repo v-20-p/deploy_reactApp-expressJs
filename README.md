@@ -1,4 +1,4 @@
-# deploy_reactApp-expressJs_in_netlify--vercel
+# deploy_reactApp-expressJs
 
 In this repository, I will guide you through deploying a React app on Netlify and an Express.js API connected to the frontend on Vercel.
 
